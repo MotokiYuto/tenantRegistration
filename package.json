@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "aws-sdk": "^2.705.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
     "core-js": "^3.6.5",
